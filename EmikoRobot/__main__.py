@@ -95,17 +95,11 @@ Hit /help to see my commands.
 
 buttons = [
     [
-        InlineKeyboardButton(text=f"About {dispatcher.bot.first_name}", callback_data="emiko_"),
-    ],
-    [
-        InlineKeyboardButton(text="Get Help", callback_data="help_back"),
-        InlineKeyboardButton(
-            text="Try inline!​​", switch_inline_query_current_chat=""
-        ),
+        InlineKeyboardButton(text=f"About Tobi Bot", callback_data="emiko_"),
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Me To Your Group ➗", url=f"t.me/{bu}?startgroup=new"),
+            text=" Add Me To Your Group ", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
