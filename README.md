@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5a180a318e09d49295c8e.jpg">
 </p>
 
 <h4><p align="center"> Tobi Crypto Lounge </p></h4>
