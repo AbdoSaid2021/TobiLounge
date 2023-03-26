@@ -4,7 +4,7 @@
 
 <h4><p align="center"> Tobi Crypto Lounge </p></h4>
 
-<p align="center">Tobi Crypto Lounge is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">Tobi Crypto Lounge is a group hlper bot and have a lot features.</p>
 
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbdoSaid2021/TobiLounge"> <img 
