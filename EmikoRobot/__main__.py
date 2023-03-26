@@ -83,12 +83,14 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Hello {} !*
-✪ I'm an anime-theme management bot [✨](https://telegra.ph/file/11b5922a33de9968cedfe.jpg)
+🤖 I am a tobi managemnt Telegram communities, I have a lot of features and I work very efficiently !
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
 ────────────────────────
-✪ Hit /help to see my available commands.
+Hit /help to see my commands.
+────────────────────────
+*By: Team Crypto Lounge*
 """
 
 buttons = [
